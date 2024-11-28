@@ -1,0 +1,328 @@
+/* Resetando as margens e o preenchimento para todos os elementos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Configuração geral do corpo */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Container geral para garantir o alinhamento e espaçamento */
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Estilos do Navbar */
+#navbar {
+    background-color: #333;
+    padding: 10px 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+#navbar .logo {
+    font-size: 1.5rem;
+    color: white;
+    text-transform: uppercase;
+}
+
+#navbar .logo img {
+    height: 30px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.nav-links {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-links li {
+    margin: 0 15px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+.nav-links a:hover {
+    color: #f4f4f4;
+    border-bottom: 2px solid #f4f4f4;
+}
+
+/* Estilos do header */
+header {
+    background: #333 url('background.jpg') no-repeat center center/cover;
+    color: white;
+    padding: 80px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5rem;
+}
+
+header h2 {
+    font-size: 1.5rem;
+    margin: 10px 0;
+}
+
+.social-links a {
+    font-size: 1.5rem;
+    color: white;
+    margin: 0 10px;
+    transition: 0.3s;
+}
+
+.social-links a:hover {
+    color: #f4f4f4;
+}
+
+/* Estilos da Seção Sobre */
+#about {
+    background-color: white;
+    padding: 60px 0;
+}
+
+#about h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.about-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.about-img img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-right: 30px;
+}
+
+.about-text {
+    max-width: 600px;
+}
+
+.about-text p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.about-text .btn {
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+    border-radius: 5px;
+}
+
+.about-text .btn:hover {
+    background-color: #555;
+}
+
+/* Estilos da Seção Habilidades */
+#skills {
+    background-color: #f4f4f4;
+    padding: 60px 0;
+}
+
+#skills h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.skill-item {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.skill-item i {
+    font-size: 3rem;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.skill-item h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.skill-bar {
+    height: 10px;
+    background-color: #ddd;
+    border-radius: 5px;
+}
+
+.skill-bar[data-skill="90"] {
+    width: 90%;
+    background-color: #4caf50;
+}
+
+.skill-bar[data-skill="85"] {
+    width: 85%;
+    background-color: #2196f3;
+}
+
+.skill-bar[data-skill="80"] {
+    width: 80%;
+    background-color: #ff9800;
+}
+
+.skill-bar[data-skill="75"] {
+    width: 75%;
+    background-color: #ff5722;
+}
+
+/* Estilos da Seção Projetos */
+#projects {
+    background-color: white;
+    padding: 60px 0;
+}
+
+#projects h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.projects-grid .project-item {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos do WhatsApp */
+.whatsapp-container {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.whatsapp-btn {
+    background-color: #25d366;
+    color: white;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.whatsapp-btn i {
+    margin-right: 10px;
+}
+
+.whatsapp-btn:hover {
+    background-color: #128c7e;
+}
+
+/* Estilos da Seção Contato */
+#contact {
+    background-color: #f4f4f4;
+    padding: 60px 0;
+}
+
+#contact h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.contact-links {
+    text-align: center;
+}
+
+.contact-link {
+    display: inline-block;
+    margin: 10px;
+    font-size: 1.1rem;
+    color: #333;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.contact-link:hover {
+    background-color: #333;
+    color: white;
+}
+
+/* Rodapé */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+footer p {
+    font-size: 1rem;
+}
+
+/* Estilos Responsivos */
+@media (max-width: 768px) {
+    .skills-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .projects-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .about-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .about-img img {
+        width: 150px;
+        height: 150px;
+    }
+
+    .nav-links {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .nav-links li {
+        margin: 10px 0;
+    }
+}
