@@ -56,5 +56,5 @@ Caso encontre algum bug ou tenha sugestões, você pode abrir uma issue.
 🔗 Links Importantes
 - **GitHub:** Cleiton Pinheiro no [GitHub](https://github.com/cleitonvpinheiro)<br>
 - **LinkedIn:** Cleiton Pinheiro no [LinkedIn](https://www.linkedin.com/in/cleiton-vicente-pinheiro/)<br>
-- **WhatsApp:** [Me chame no WhatsApp](https://wa.me/5541998412058)<br><br>
+- **WhatsApp:** [Fale comigo no WhatsApp](https://wa.me/5541998412058)<br><br>
 ✨ Obrigado por visitar meu portfólio! ✨
