@@ -42,17 +42,19 @@ Copiar código
 cd portfolio
 Abra o arquivo index.html em seu navegador para visualizar o portfólio.
 
-💡 Como Contribuir
+## 💡 Como Contribuir
 Se você gostaria de sugerir melhorias, corrigir bugs ou contribuir de alguma forma, sinta-se à vontade para:
 
-Fazer um fork deste repositório.
-Criar uma branch com sua feature ou correção.
-Commitar suas alterações.
-Submeter um Pull Request.
+Fazer um **fork** deste repositório.<br>
+Criar uma **branch** com sua feature ou correção.<br>
+**Commitar** suas alterações.
+<br>
+**Submeter um Pull Request.**
+<br>
 Caso encontre algum bug ou tenha sugestões, você pode abrir uma issue.
 
 🔗 Links Importantes
-GitHub: Cleiton Pinheiro no GitHub
-LinkedIn: Cleiton Pinheiro no LinkedIn
-WhatsApp: Fale comigo no WhatsApp
+- **GitHub:** Cleiton Pinheiro no GitHub<br>
+- **LinkedIn:** Cleiton Pinheiro no LinkedIn<br>
+- **WhatsApp:** Fale comigo no WhatsApp<br><br>
 ✨ Obrigado por visitar meu portfólio! ✨
