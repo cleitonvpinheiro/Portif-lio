@@ -45,9 +45,9 @@ Abra o arquivo index.html em seu navegador para visualizar o portfólio.
 ## 💡 Como Contribuir
 Se você gostaria de sugerir melhorias, corrigir bugs ou contribuir de alguma forma, sinta-se à vontade para:
 
-1 Fazer um **fork** deste repositório.<br>
-2 Criar uma **branch** com sua feature ou correção.<br>
-3 **Commitar** suas alterações.
+1. Fazer um **fork** deste repositório.<br>
+2. Criar uma **branch** com sua feature ou correção.<br>
+3. **Commitar** suas alterações.
 <br>
 4 **Submeter um Pull Request.**
 <br>
