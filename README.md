@@ -45,16 +45,16 @@ Abra o arquivo index.html em seu navegador para visualizar o portfólio.
 ## 💡 Como Contribuir
 Se você gostaria de sugerir melhorias, corrigir bugs ou contribuir de alguma forma, sinta-se à vontade para:
 
-Fazer um **fork** deste repositório.<br>
-Criar uma **branch** com sua feature ou correção.<br>
-**Commitar** suas alterações.
+1 Fazer um **fork** deste repositório.<br>
+2 Criar uma **branch** com sua feature ou correção.<br>
+3 **Commitar** suas alterações.
 <br>
-**Submeter um Pull Request.**
+4 **Submeter um Pull Request.**
 <br>
 Caso encontre algum bug ou tenha sugestões, você pode abrir uma issue.
 
 🔗 Links Importantes
-- **GitHub:** Cleiton Pinheiro no GitHub<br>
-- **LinkedIn:** Cleiton Pinheiro no LinkedIn<br>
-- **WhatsApp:** Fale comigo no WhatsApp<br><br>
+- **GitHub:** Cleiton Pinheiro no [GitHub](https://github.com/cleitonvpinheiro)<br>
+- **LinkedIn:** Cleiton Pinheiro no [LinkedIn](https://www.linkedin.com/in/cleiton-vicente-pinheiro/)<br>
+- **WhatsApp:** [Me chame no WhatsApp](https://wa.me/5541998412058)<br><br>
 ✨ Obrigado por visitar meu portfólio! ✨
