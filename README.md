@@ -54,7 +54,7 @@ Se você gostaria de sugerir melhorias, corrigir bugs ou contribuir de alguma fo
 Caso encontre algum bug ou tenha sugestões, você pode abrir uma issue.
 
 🔗 Links Importantes
-- **GitHub:** Cleiton Pinheiro no [![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/cleitonvpinheiro)<br>
-- **LinkedIn:** Cleiton Pinheiro no [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_%282019%29.svg)](https://www.linkedin.com/in/cleiton-vicente-pinheiro/)<br>
-- **WhatsApp:** Fale comigo no [![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://wa.me/5541998412058)<br><br>
+- **GitHub:** Cleiton Pinheiro no [![GitHub][<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40">]](https://github.com/cleitonvpinheiro)<br>
+- **LinkedIn:** Cleiton Pinheiro no [![LinkedIn][<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_%282019%29.svg" width="40" height="40">]](https://www.linkedin.com/in/cleiton-vicente-pinheiro/)<br>
+- **WhatsApp:** Fale comigo no [![WhatsApp][<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" height="40">]](https://wa.me/5541998412058)<br><br>
 ✨ Obrigado por visitar meu portfólio! ✨
